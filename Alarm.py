@@ -273,7 +273,7 @@ def actual_time(isim):
 
 
 clock = Tk()
-clock.title("TÜBİTAK PROJE")
+clock.title("ALARM")
 clock.geometry("400x200")
 
 pygame.init()
